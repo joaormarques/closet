@@ -1,0 +1,21 @@
+.accordion__button {
+  display: block;
+  width: 100%;
+  padding: 12px 16px;
+  border: none;
+  background-color: #f7f7f7;
+  text-align: left;
+  font-size: 16px;
+  cursor: pointer;
+  color: black;
+}
+
+.accordion__button:hover {
+  background-color: #ddd;
+}
+
+.accordion__content {
+  padding: 16px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
